@@ -89,7 +89,11 @@ body {
 }
 
 .attribution a {
+    padding: 10px;
     color: #ffffff;
+    border-radius: 5px;
+    background: #aa5cdb;
+    text-decoration: none;
 }
 
 /* MEDIA QUERY FOR SCREENS FROM 0 - 1200PX */
